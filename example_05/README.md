@@ -567,7 +567,7 @@ users = db.query(User).all()
 
 ## 🔗 Next Steps
 
-Move on to **Example 06**, where we'll apply all knowledge to create a full-featured **Domain-Driven Design** application!
+Move on to **[Example 06](../example_06/)**, where we'll apply all knowledge to create a full-featured **Domain-Driven Design** application!
 
 **What awaits you:**
 - Full DDD architecture

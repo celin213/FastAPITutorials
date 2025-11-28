@@ -275,7 +275,7 @@ pip install Pillow
 
 ## 🔗 Next Steps
 
-After completing this example, proceed to **Example 05: Dependency Injection**
+After completing this example, proceed to **[Example 05](../example_05/)**: Dependency Injection
 
 **What's next:**
 - Dependency Injection pattern

@@ -435,7 +435,7 @@ pip install pydantic[email]  # or this way
 
 ## 🔗 Next Steps
 
-Move on to **Example 03**, where we integrate **async SQLAlchemy 2.0** and learn database operations!
+Move on to **[Example 03](../example_03/)**, where we integrate **async SQLAlchemy 2.0** and learn database operations!
 
 **Important topics in Example 03:**
 - Async database operations

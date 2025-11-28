@@ -316,10 +316,11 @@ curl -X POST http://localhost:8000/items \
 ## 📚 Next Steps
 
 After studying this example, proceed to:
-- **Example 02**: Advanced Pydantic validation
-- **Example 03**: Database integration (async SQLAlchemy 2.0)
-- **Example 04**: Dependency Injection patterns
-- **Example 05**: Full DDD architecture
+- **[Example 02](../example_02/)**: Advanced Pydantic validation
+- **[Example 03](../example_03/)**: Database integration (async SQLAlchemy 2.0)
+- **[Example 04](../example_04/)**: Image Handling
+- **[Example 05](../example_05/)**: Dependency Injection patterns
+- **[Example 06](../example_06/)**: Full DDD architecture
 
 ## 🔗 Useful Links
 

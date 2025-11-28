@@ -607,7 +607,7 @@ async def create(user: UserCreate):  # UserCreate is a Pydantic schema
 
 ## 🔗 Next Steps
 
-Move on to **Example 04**, where we'll study **Dependency Injection** and the **Service Layer** pattern in detail!
+Move on to **[Example 04](../example_04/)**, where we'll learn **Image Handling** with FastAPI, then to **[Example 05](../example_05/)**, where we'll study **Dependency Injection** and the **Service Layer** pattern in detail!
 
 **What you'll learn:**
 - How `Depends()` works internally

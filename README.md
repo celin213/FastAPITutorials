@@ -6,7 +6,7 @@ This tutorial provides a complete learning path from basic FastAPI concepts to a
 
 ## 📚 Tutorial Structure
 
-### Example 01: Basic FastAPI Requests
+### [Example 01](example_01/): Basic FastAPI Requests
 
 - ✅ GET, POST, PUT, DELETE methods
 - ✅ Path parameters (`/items/{item_id}`)
@@ -26,7 +26,7 @@ This tutorial provides a complete learning path from basic FastAPI concepts to a
 
 ---
 
-### Example 02: Pydantic + BaseModel
+### [Example 02](example_02/): Pydantic + BaseModel
 
 - ✅ BaseModel basics and field types
 - ✅ Advanced validation (Field, field_validator, model_validator)
@@ -47,7 +47,7 @@ This tutorial provides a complete learning path from basic FastAPI concepts to a
 
 ---
 
-### Example 03: Database Integration (SQLAlchemy Async)
+### [Example 03](example_03/): Database Integration (SQLAlchemy Async)
 
 - ✅ Async SQLAlchemy 2.0 configuration
 - ✅ Session management with `Depends(get_db)`
@@ -81,7 +81,7 @@ This tutorial provides a complete learning path from basic FastAPI concepts to a
 
 ---
 
-### Example 04: Image Handling
+### [Example 04](example_04/): Image Handling
 
 - ✅ File upload with validation
 - ✅ Image processing (resize, convert format)
@@ -110,7 +110,7 @@ This tutorial provides a complete learning path from basic FastAPI concepts to a
 
 ---
 
-### Example 05: Dependency Injection
+### [Example 05](example_05/): Dependency Injection
 
 - ✅ How `Depends()` works internally
 - ✅ Service layer pattern with DI
@@ -142,7 +142,7 @@ Router → Service → Repository → Database Session
 
 ---
 
-### Example 06: Domain-Driven Design (Full Architecture)
+### [Example 06](example_06/): Domain-Driven Design (Full Architecture)
 
 Complete professional architecture with clear separation of layers.
 
@@ -199,13 +199,13 @@ pip install fastapi uvicorn pydantic[email]
 
 ### Running Examples
 
-**Example 01-03** (single file):
+**[Example 01](example_01/)-[03](example_03/)** (single file):
 ```bash
 cd example_01  # or example_02, example_03
 uvicorn main:app --reload
 ```
 
-**Example 04-06** (multiple files or single file):
+**[Example 04](example_04/)-[06](example_06/)** (multiple files or single file):
 ```bash
 cd example_04  # or example_05, example_06
 python main.py
@@ -220,24 +220,24 @@ python main.py
 ## 📖 Learning Path
 
 ### Beginner
-1. Start with **Example 01** - Learn basic HTTP methods
-2. Move to **Example 02** - Master Pydantic validation
-3. Study **Example 03** - Understand database integration
+1. Start with **[Example 01](example_01/)** - Learn basic HTTP methods
+2. Move to **[Example 02](example_02/)** - Master Pydantic validation
+3. Study **[Example 03](example_03/)** - Understand database integration
 
 ### Intermediate
-4. **Example 04** - Learn file handling and image processing
-5. **Example 05** - Learn Dependency Injection pattern
+4. **[Example 04](example_04/)** - Learn file handling and image processing
+5. **[Example 05](example_05/)** - Learn Dependency Injection pattern
 6. Understand Service and Repository layers
 
 ### Advanced
-7. **Example 06** - Full DDD architecture
+7. **[Example 06](example_06/)** - Full DDD architecture
 8. Build production-ready applications
 
 ---
 
 ## 🔑 Key Differences Explained
 
-### Schema vs Model (Example 03)
+### Schema vs Model ([Example 03](example_03/))
 
 **Schema (Pydantic)**:
 - For API validation and serialization
@@ -295,7 +295,7 @@ user = result.scalar_one_or_none()
 
 ## 🧪 Testing
 
-Run tests for Example 05:
+Run tests for [Example 05](example_05/):
 ```bash
 cd example_05
 pytest test_di.py -v
